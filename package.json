@@ -1,0 +1,23 @@
+{
+  "name": "hello_microvers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tes-nat/Hello_Microvers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tes-nat/Hello_Microvers/issues"
+  },
+  "homepage": "https://github.com/tes-nat/Hello_Microvers#readme",
+  "devDependencies": {
+    "hint": "^2.0.0"
+  }
+}
