@@ -144,7 +144,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+ Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -179,7 +179,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+ Write a message to encourage readers to support your project
 
 If you like this project...
 
@@ -189,7 +189,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+ Give credit to everyone who inspired your codebase.
 
 I would like to thank Microvers staff
 
